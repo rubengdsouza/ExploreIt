@@ -3,5 +3,5 @@
 int main() {
 
 	std::cout << "Project ExploreIt: "
-			  << "Hello World!" << std::endl;
+			  << "Hello World! << std::endl;
 }
